@@ -3,8 +3,6 @@
  */
 package P1.poet;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
 
 /**
